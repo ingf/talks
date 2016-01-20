@@ -1,7 +1,4 @@
-# MARK III
-
-> 前端神盾局演讲主题与规范
-
+[React Tutorial](http://ingf.github.io/talks/react-tutorial.html#/)
 
 ### Get Started
 
@@ -10,9 +7,9 @@
 需要 watch 与 livereload 时：
 
 ```
-$ grunt serve
+npm install
+grunt serve
 ```
-
 
 ###  Doc
 
