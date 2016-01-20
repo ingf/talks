@@ -1,5 +1,6 @@
 [React Tutorial](http://ingf.github.io/talks/react-tutorial.html#/)
 
+按 `s` 键查看详情。
 ### Get Started
 
 直接打开 index.html 即可
